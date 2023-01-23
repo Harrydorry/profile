@@ -1,4 +1,4 @@
- ![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?length=600&name=devops-old-way.gif)
+ ![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=300&name=devops-cs-way.gif)
 <h1 align="center">Hi 👋, I'm Manish Jangra</h1>
 <h3 align="center">A cloud DevOps engineer from India</h3><br>
 <img align="right" alt="Coding" width="400"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
