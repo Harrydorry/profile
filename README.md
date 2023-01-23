@@ -32,6 +32,6 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="40" height="40"/> </a> 
 
 </p>
-  <p><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManishJangra22&theme=react&line_height=40&hide=css"/> </a></p>
+  <p><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManishJangra22&theme=react&line_height=40"/> </a></p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishJangra22&" alt="ManishJangra22" /></p>
