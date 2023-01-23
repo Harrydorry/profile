@@ -1,4 +1,4 @@
- ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+ ![MasterHead](https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif)
 <h1 align="center">Hi 👋, I'm Manish Jangra</h1>
 <h3 align="center">A cloud DevOps engineer from India</h3><br>
 <img align="right" alt="Coding" width="400"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
