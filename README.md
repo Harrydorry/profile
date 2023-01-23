@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishJangra22&show_icons=true&locale=en&layout=compact" alt="ManishJangra22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishJangra22&show_icons=true&locale=en" alt="ManishJangra22" /></p>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManishJangra22&theme=react&line_height=40&hide=css"/> </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishJangra22&" alt="ManishJangra22" /></p>
