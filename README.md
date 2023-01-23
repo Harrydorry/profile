@@ -1,6 +1,7 @@
  ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Manish Jangra</h1>
 <h3 align="center">A cloud DevOps engineer from India</h3><br>
+<img align="right" alt="Coding" width="400"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrydorry&label=Profile%20views&color=0e75b6&style=flat" alt="harrydorry" /> </p>
 
@@ -32,8 +33,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrydorry&show_icons=true&locale=en&layout=compact" alt="harrydorry" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishJangra22&show_icons=true&locale=en&layout=compact" alt="harrydorry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrydorry&show_icons=true&locale=en" alt="harrydorry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishJangra22&show_icons=true&locale=en" alt="ManishJangra22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrydorry&" alt="harrydorry" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishJangra22&" alt="ManishJangra22" /></p>
