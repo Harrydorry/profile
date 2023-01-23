@@ -33,8 +33,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishJangra22&show_icons=true&locale=en&layout=compact" alt="harrydorry" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishJangra22&show_icons=true&locale=en&layout=compact" alt="ManishJangra22" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishJangra22&show_icons=true&locale=en" alt="ManishJangra22" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishJangra22&" alt="ManishJangra22" /></p>
